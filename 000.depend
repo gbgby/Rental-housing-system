@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1484125347 source:c:\users\administrator\desktop\000\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	"KMP.h"
+	"addel.h"
+	"tsort.h"
+
+1484229835 source:c:\users\gmz-pc\desktop\000\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	"KMP.h"
+	"class.h"
+	"admin_function.h"
+
+1483866807 c:\users\administrator\desktop\000\addel.h
+	<bits/stdc++.h>
+	<windows.h >
+
+1484017504 source:c:\users\administrator\desktop\000(3)\000\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+
+1484123349 c:\users\administrator\desktop\000\kmp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1484122848 c:\users\administrator\desktop\000\tsort.h
+	<iostream>
+	<algorithm>
+
+1484194642 c:\users\gmz-pc\desktop\000\kmp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1483866807 c:\users\gmz-pc\desktop\000\addel.h
+	<bits/stdc++.h>
+	<windows.h >
+
+1484228166 c:\users\gmz-pc\desktop\000\tsort.h
+
+1484235429 c:\users\gmz-pc\desktop\000\class.h
+
+1484225265 c:\users\gmz-pc\desktop\000\admin_function.h
+
